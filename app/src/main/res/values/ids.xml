@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_nome" type="id" />
+    <item name="tv_telefone" type="id" />
+    <item name="tv_email" type="id" />
+    <item name="tv_nome_empresa" type="id" />
+    <item name="till_nome" type="id" />
+</resources>
